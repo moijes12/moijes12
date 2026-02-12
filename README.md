@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **System Design, Databases and CSS**
 
-- 👯 I'm looking to collaborate on **Open Source Projects involving lots of data**
+- 🤝 I'm looking to collaborate on **Open Source Projects involving lots of data**
 
 - 💬 Ask me about **Web Development, Python, Django, Databases, Docker, CI/CD, Fullstack**
 
