@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alexander Moses
 
-### Happy to be writing code
+
 
 - 🔭 I'm currently working on Open Source projects particularly [Treeherder](https://github.com/mozilla/treeherder) and [PerfCompare](https://github.com/mozilla/perfcompare) 
 
