@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on Open Source projects particularly [Treeherder](https://github.com/mozilla/treeherder) and [PerfCompare](https://github.com/mozilla/perfcompare) 
 
-- 🌱 I'm currently learning **System Design, Databases and CSS**
+- 🌱 I'm currently learning **System Design, Databases, ReactsJS, MUI and CSS**
 
 - 🤝 I'm looking to collaborate on **Open Source Projects involving lots of data**
 
