@@ -8,7 +8,7 @@
 
 - 🤝 I'm looking to collaborate on **Open Source Projects involving lots of data**
 
-- 💬 Ask me about **Web Development, Python, Django, Databases, Docker, CI/CD, React, Fullstack**
+- 💬 Ask me about **Web Development, Python, Django, Databases, Docker, CI/CD, React, Go, Fullstack**
 
 - 📫 How to reach me [moijes12@gmail.com](mailto:moijes12@gmail.com)
 
