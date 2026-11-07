@@ -4,11 +4,11 @@
 
 - 🔭 I'm currently working on Open Source projects particularly [Treeherder](https://github.com/mozilla/treeherder) and [PerfCompare](https://github.com/mozilla/perfcompare) 
 
-- 🌱 I'm currently learning **System Design, Databases, AI, ML and MUI**
+- 🌱 I'm currently learning **System Design, Databases, AI, ML, GCP and MUI**
 
 - 🤝 I'm looking to collaborate on **Open Source Projects involving lots of data**
 
-- 💬 Ask me about **Web Development, Python, Django, TypeScript, FastAPI, Databases, Docker, CI/CD, React, Go, Fullstack**
+- 💬 Ask me about **Web Development, Python, Django, TypeScript, FastAPI, Databases, Docker, CI/CD, React, Go, GCP, Fullstack**
 
 - 📫 How to reach me [moijes12@gmail.com](mailto:moijes12@gmail.com)
 
